@@ -1,0 +1,2 @@
+# Tips
+ Atalhos, dicas etc
